@@ -16,8 +16,8 @@ Console.WriteLine(Dec1.HighestThree());
 Console.WriteLine("------------------------------------------------------------------------------------------");
 
 //December 2
-Console.WriteLine("1 December");
+Console.WriteLine("2 December");
 Console.WriteLine("...........");
-Console.WriteLine(Dec1.HighestKCal());
-Console.WriteLine(Dec1.HighestThree());
+Console.WriteLine(Dec2.TotalScore());
+Console.WriteLine(Dec2.CorrectTotalScore());
 Console.WriteLine("------------------------------------------------------------------------------------------");

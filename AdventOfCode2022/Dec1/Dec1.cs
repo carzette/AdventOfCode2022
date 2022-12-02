@@ -5,7 +5,7 @@ public static class Dec1
 {
     public static string HighestKCal()
     {
-        var input = File.ReadAllLines(@"D:\Git\AdventOfCode2022\AdventOfCode2022\Dec1\Input.txt").ToList();
+        var input = File.ReadAllLines(@"D:\Git\AdventOfCode2022\AdventOfCode2022\Dec1\Input1.txt").ToList();
 
         List<int> elfList = new List<int>();
         int elf = 0;
@@ -27,7 +27,7 @@ public static class Dec1
     public static string HighestThree()
     {
 
-        var input = File.ReadAllLines(@"D:\Git\AdventOfCode2022\AdventOfCode2022\Dec1\Input.txt").ToList();
+        var input = File.ReadAllLines(@"D:\Git\AdventOfCode2022\AdventOfCode2022\Dec1\Input1.txt").ToList();
 
         List<int> elfList = new List<int>();
         int elf = 0;
