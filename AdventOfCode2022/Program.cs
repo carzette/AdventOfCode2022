@@ -21,3 +21,10 @@ Console.WriteLine("...........");
 Console.WriteLine(Dec2.TotalScore());
 Console.WriteLine(Dec2.CorrectTotalScore());
 Console.WriteLine("------------------------------------------------------------------------------------------");
+
+//December 3
+Console.WriteLine("3 December");
+Console.WriteLine("...........");
+Console.WriteLine(Dec3.TotalPriority());
+Console.WriteLine(Dec3.GroupOfThree());
+Console.WriteLine("------------------------------------------------------------------------------------------");
