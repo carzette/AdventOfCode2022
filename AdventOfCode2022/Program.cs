@@ -28,3 +28,10 @@ Console.WriteLine("...........");
 Console.WriteLine(Dec3.TotalPriority());
 Console.WriteLine(Dec3.GroupOfThree());
 Console.WriteLine("------------------------------------------------------------------------------------------");
+
+//December 4
+Console.WriteLine("4 December");
+Console.WriteLine("...........");
+Console.WriteLine(Dec4.IntersectedPairs());
+Console.WriteLine(Dec4.IntersectedABitPairs());
+Console.WriteLine("------------------------------------------------------------------------------------------");
