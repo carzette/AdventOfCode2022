@@ -35,3 +35,10 @@ Console.WriteLine("...........");
 Console.WriteLine(Dec4.IntersectedPairs());
 Console.WriteLine(Dec4.IntersectedABitPairs());
 Console.WriteLine("------------------------------------------------------------------------------------------");
+
+//December 5
+Console.WriteLine("5 December");
+Console.WriteLine("...........");
+Console.WriteLine(Dec5.TopCrates());
+Console.WriteLine(Dec5.TopCrates2());
+Console.WriteLine("------------------------------------------------------------------------------------------");
