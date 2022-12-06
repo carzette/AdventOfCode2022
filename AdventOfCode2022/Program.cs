@@ -42,3 +42,10 @@ Console.WriteLine("...........");
 Console.WriteLine(Dec5.TopCrates());
 Console.WriteLine(Dec5.TopCrates2());
 Console.WriteLine("------------------------------------------------------------------------------------------");
+
+//December 6
+Console.WriteLine("6 December");
+Console.WriteLine("...........");
+Console.WriteLine(Dec6.FirstFourSequence());
+Console.WriteLine(Dec6.FirstFourteenSequence());
+Console.WriteLine("------------------------------------------------------------------------------------------");
