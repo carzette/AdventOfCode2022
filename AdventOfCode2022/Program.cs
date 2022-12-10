@@ -9,6 +9,7 @@
 */
 
 //December 1
+
 Console.WriteLine("1 December");
 Console.WriteLine("...........");
 Console.WriteLine(Dec1.HighestKCal());
@@ -62,4 +63,12 @@ Console.WriteLine("8 December");
 Console.WriteLine("...........");
 Console.WriteLine(Dec8.A());
 Console.WriteLine(Dec8.B());
+Console.WriteLine("------------------------------------------------------------------------------------------");
+
+//December 9
+Console.WriteLine("9 December");
+Console.WriteLine("...........");
+Console.WriteLine(Dec9.A());
+Console.WriteLine(Dec9.B());
+Console.WriteLine(Day9.C());
 Console.WriteLine("------------------------------------------------------------------------------------------");
