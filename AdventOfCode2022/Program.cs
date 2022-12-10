@@ -51,12 +51,12 @@ Console.WriteLine(Dec6.FirstFourSequence());
 Console.WriteLine(Dec6.FirstFourteenSequence());
 Console.WriteLine("------------------------------------------------------------------------------------------");
 
-////December 7
-//Console.WriteLine("7 December");
-//Console.WriteLine("...........");
-////Console.WriteLine(Dec7.A());
+//December 7
+Console.WriteLine("7 December");
+Console.WriteLine("...........");
+//Console.WriteLine(Dec7Take2.B());
 //Console.WriteLine(Dec7Take2.A());
-//Console.WriteLine("------------------------------------------------------------------------------------------");
+Console.WriteLine("------------------------------------------------------------------------------------------");
 
 //December 8
 Console.WriteLine("8 December");
@@ -70,7 +70,6 @@ Console.WriteLine("9 December");
 Console.WriteLine("...........");
 Console.WriteLine(Dec9.A());
 Console.WriteLine(Dec9.B());
-Console.WriteLine(Day9.C());
 Console.WriteLine("------------------------------------------------------------------------------------------");
 
 //December 10
