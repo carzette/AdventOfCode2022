@@ -72,3 +72,10 @@ Console.WriteLine(Dec9.A());
 Console.WriteLine(Dec9.B());
 Console.WriteLine(Day9.C());
 Console.WriteLine("------------------------------------------------------------------------------------------");
+
+//December 10
+Console.WriteLine("10 December");
+Console.WriteLine("...........");
+Console.WriteLine(Dec10.A());
+Console.WriteLine(Dec10.B());
+Console.WriteLine("------------------------------------------------------------------------------------------");
