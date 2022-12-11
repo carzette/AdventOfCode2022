@@ -78,3 +78,12 @@ Console.WriteLine("...........");
 Console.WriteLine(Dec10.A());
 Console.WriteLine(Dec10.B());
 Console.WriteLine("------------------------------------------------------------------------------------------");
+
+//December 10
+Console.WriteLine("10 December");
+Console.WriteLine("...........");
+//Console.WriteLine(Dec11.AAndB("1"));
+//Console.WriteLine(Dec11.AAndB("2"));
+Console.WriteLine(Dec11.AB("1"));
+Console.WriteLine(Dec11.AB("2"));
+Console.WriteLine("------------------------------------------------------------------------------------------");
