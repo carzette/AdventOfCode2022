@@ -79,11 +79,27 @@ Console.WriteLine(Dec10.A());
 Console.WriteLine(Dec10.B());
 Console.WriteLine("------------------------------------------------------------------------------------------");
 
-//December 10
-Console.WriteLine("10 December");
+//December 11
+Console.WriteLine("11 December");
 Console.WriteLine("...........");
-//Console.WriteLine(Dec11.AAndB("1"));
-//Console.WriteLine(Dec11.AAndB("2"));
 Console.WriteLine(Dec11.AB("1"));
-Console.WriteLine(Dec11.AB("2"));
+////Console.WriteLine(Dec11.AB("2"));
+Console.WriteLine("------------------------------------------------------------------------------------------");
+//December 12
+Console.WriteLine("12 December");
+Console.WriteLine("...........");
+//Console.WriteLine(Dec12.main("1"));
+Console.WriteLine("------------------------------------------------------------------------------------------");
+
+//December 13
+Console.WriteLine("13 December");
+Console.WriteLine("...........");
+//Console.WriteLine(Dec13.AB("1"));
+Console.WriteLine("------------------------------------------------------------------------------------------");
+
+//December 14
+Console.WriteLine("14 December");
+Console.WriteLine("...........");
+Console.WriteLine(Dec14.AB("1"));
+Console.WriteLine(Dec14.AB("2"));
 Console.WriteLine("------------------------------------------------------------------------------------------");
